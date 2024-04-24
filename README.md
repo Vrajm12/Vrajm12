@@ -27,6 +27,6 @@ This portfolio is built using Bootstrap Made, a resourceful platform offering pr
 This portfolio template is provided under the GNU GENERAL PUBLIC LICENSE. Please refer to the LICENSE file for more details.
 
 # Contact:
-For any inquiries or assistance, feel free to reach out to me at ksaurav4093@gmail.com
+For any inquiries or assistance, feel free to reach out to me at veerajmatnale@gmail.com
 
 Thank you for visiting my portfolio!
