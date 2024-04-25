@@ -277,9 +277,15 @@ h6 {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right no-repeat;
   background-size: cover;
+  background-position: center;
   position: relative;
 }
-
+@media (max-width: 991px) {
+  #hero {
+    background: url("../img/hero-bg-mobile.jpg") center center no-repeat;
+    background-size: cover;
+  }
+}
 @media (min-width: 992px) {
   #hero {
     padding-left: 160px;
