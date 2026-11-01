@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260">
+<rect width="600" height="260" rx="18" fill="#352819" stroke="#e8ad5a" stroke-opacity=".6"/>
+<circle cx="510" cy="70" r="110" fill="#e8ad5a" opacity=".08"/><circle cx="510" cy="70" r="70" fill="none" stroke="#e8ad5a" stroke-opacity=".3"/><path d="M410 30h170M440 70h140M470 110h110" stroke="#e8ad5a" stroke-opacity=".25"/>
+<g font-family="Arial,sans-serif"><text x="30" y="42" fill="#e8ad5a" font-size="12" font-weight="700" letter-spacing="3">PROJECT / LAB</text><text x="28" y="112" fill="#f1f5ff" font-size="35" font-weight="800">ASTRAMEM</text><text x="31" y="151" fill="#c3d0e4" font-size="17">Local-first AI memory</text><text x="31" y="198" fill="#91a4c2" font-size="14">Recall workflows · MCP integration · Experiments</text></g>
+</svg>

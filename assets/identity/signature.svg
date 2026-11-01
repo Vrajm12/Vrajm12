@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+<rect width="1000" height="120" rx="18" fill="#0d1422" stroke="#26354e"/>
+<g font-family="Arial, sans-serif"><text x="32" y="48" fill="#e9f0fb" font-size="20" font-weight="700">ENGINEERING LAYERS</text><text x="32" y="76" fill="#8294b0" font-size="13">From problem framing to reliable systems</text></g>
+<g font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+<rect x="350" y="30" width="130" height="54" rx="10" fill="#183b40" stroke="#42d6c5"/><text x="415" y="62" fill="#9cf2e6">DISCOVER</text>
+<path d="M484 57h30" stroke="#607b9e" stroke-width="2"/><path d="m508 51 7 6-7 6" fill="none" stroke="#607b9e" stroke-width="2"/>
+<rect x="522" y="30" width="130" height="54" rx="10" fill="#1b2b4b" stroke="#668cff"/><text x="587" y="62" fill="#c1d0ff">DESIGN</text>
+<path d="M656 57h30" stroke="#607b9e" stroke-width="2"/><path d="m680 51 7 6-7 6" fill="none" stroke="#607b9e" stroke-width="2"/>
+<rect x="694" y="30" width="130" height="54" rx="10" fill="#302443" stroke="#b58aff"/><text x="759" y="62" fill="#e0ccff">BUILD</text>
+<path d="M828 57h30" stroke="#607b9e" stroke-width="2"/><path d="m852 51 7 6-7 6" fill="none" stroke="#607b9e" stroke-width="2"/>
+<rect x="866" y="30" width="105" height="54" rx="10" fill="#3b2c1b" stroke="#e8ad5a"/><text x="918" y="62" fill="#ffdaa0">VERIFY</text>
+</g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" rx="18" fill="#0c1422" stroke="#293a55"/>
+<g font-family="Arial,sans-serif"><text x="28" y="38" fill="#eef4ff" font-size="18" font-weight="700">MULTI-TENANT ISOLATION / REQUEST PATH</text><text x="28" y="60" fill="#7f93b2" font-size="12">Tenant context is established, propagated and enforced at data boundaries</text></g>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="32" y="112" width="160" height="90" rx="12" fill="#192b47" stroke="#668cff"/><text x="112" y="148" fill="#d7e2ff" font-size="14" font-weight="700">REQUEST</text><text x="112" y="173" fill="#8ea6cf" font-size="12">Tenant host / token</text>
+<rect x="244" y="112" width="175" height="90" rx="12" fill="#183b40" stroke="#42d6c5"/><text x="331" y="148" fill="#b5fff4" font-size="14" font-weight="700">RESOLVE</text><text x="331" y="173" fill="#8ed4cc" font-size="12">Tenant context</text>
+<rect x="470" y="112" width="175" height="90" rx="12" fill="#302443" stroke="#b58aff"/><text x="557" y="148" fill="#e6d4ff" font-size="14" font-weight="700">AUTHORIZE</text><text x="557" y="173" fill="#c0a8e8" font-size="12">RBAC + tenant guard</text>
+<rect x="696" y="112" width="175" height="90" rx="12" fill="#1d2941" stroke="#668cff"/><text x="783" y="148" fill="#d7e2ff" font-size="14" font-weight="700">SCOPE</text><text x="783" y="173" fill="#a6b8dc" font-size="12">Tenant-aware query</text>
+<rect x="922" y="92" width="245" height="130" rx="12" fill="#172b29" stroke="#42d6c5"/><text x="1044" y="128" fill="#b5fff4" font-size="14" font-weight="700">DATA BOUNDARY</text><text x="1044" y="157" fill="#8ed4cc" font-size="12">Tenant A · Tenant B</text><text x="1044" y="180" fill="#8ed4cc" font-size="12">No cross-tenant access</text><text x="1044" y="203" fill="#8ed4cc" font-size="11">Policy enforced server-side</text>
+<g stroke="#7791b8" stroke-width="2" fill="none"><path d="M192 157h52m-8-6 8 6-8 6"/><path d="M419 157h51m-8-6 8 6-8 6"/><path d="M645 157h51m-8-6 8 6-8 6"/><path d="M871 157h51m-8-6 8 6-8 6"/></g>
+</g></svg>

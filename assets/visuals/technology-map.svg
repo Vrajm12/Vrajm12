@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" rx="18" fill="#0c1422" stroke="#293a55"/>
+<g font-family="Arial,sans-serif"><text x="28" y="38" fill="#eef4ff" font-size="18" font-weight="700">TECHNOLOGY LANDSCAPE</text><text x="28" y="60" fill="#7f93b2" font-size="12">A broad working toolkit — selected by problem, not by trend</text></g>
+<g font-family="Arial,sans-serif">
+<g fill="#dbe6f8" font-size="14" font-weight="700">
+<text x="40" y="112">LANGUAGES</text><text x="40" y="170">FRONTEND</text><text x="40" y="228">BACKEND</text><text x="40" y="286">DATA / AI</text>
+</g>
+<g font-size="13" fill="#a9bad5">
+<rect x="220" y="85" width="930" height="40" rx="9" fill="#17243a"/><text x="240" y="110">C · C++ · Python · JavaScript · TypeScript · HTML · CSS</text>
+<rect x="220" y="143" width="930" height="40" rx="9" fill="#17243a"/><text x="240" y="168">React · Next.js · React Native · Flutter · Tailwind CSS · Vite</text>
+<rect x="220" y="201" width="930" height="40" rx="9" fill="#17243a"/><text x="240" y="226">Node.js · NestJS · Express · Flask · FastAPI · REST APIs</text>
+<rect x="220" y="259" width="930" height="40" rx="9" fill="#17243a"/><text x="240" y="284">PostgreSQL · MongoDB · Redis · Prisma · NumPy · Pandas · Scikit-learn · OpenCV</text>
+</g></g></svg>

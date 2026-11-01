@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<rect width="1200" height="220" rx="18" fill="#0c1422" stroke="#293a55"/>
+<g font-family="Arial,sans-serif"><text x="28" y="38" fill="#eef4ff" font-size="18" font-weight="700">BUILD LOOP</text><text x="28" y="60" fill="#7f93b2" font-size="12">A repeatable approach to shipping dependable work</text></g>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g><rect x="35" y="94" width="190" height="82" rx="12" fill="#192b47" stroke="#668cff"/><text x="130" y="128" fill="#d7e2ff" font-size="14" font-weight="700">01 / FRAME</text><text x="130" y="151" fill="#9db1d7" font-size="12">Problem · constraints</text></g>
+<g><rect x="270" y="94" width="190" height="82" rx="12" fill="#183b40" stroke="#42d6c5"/><text x="365" y="128" fill="#b5fff4" font-size="14" font-weight="700">02 / MODEL</text><text x="365" y="151" fill="#8ed4cc" font-size="12">Flows · boundaries</text></g>
+<g><rect x="505" y="94" width="190" height="82" rx="12" fill="#302443" stroke="#b58aff"/><text x="600" y="128" fill="#e6d4ff" font-size="14" font-weight="700">03 / BUILD</text><text x="600" y="151" fill="#c0a8e8" font-size="12">Implement · integrate</text></g>
+<g><rect x="740" y="94" width="190" height="82" rx="12" fill="#3b2c1b" stroke="#e8ad5a"/><text x="835" y="128" fill="#ffe0ad" font-size="14" font-weight="700">04 / VERIFY</text><text x="835" y="151" fill="#d6b783" font-size="12">Test · audit · observe</text></g>
+<g><rect x="975" y="94" width="190" height="82" rx="12" fill="#172b29" stroke="#42d6c5"/><text x="1070" y="128" fill="#b5fff4" font-size="14" font-weight="700">05 / ITERATE</text><text x="1070" y="151" fill="#8ed4cc" font-size="12">Learn · improve</text></g>
+<g stroke="#7791b8" stroke-width="2" fill="none"><path d="M225 135h45m-8-6 8 6-8 6"/><path d="M460 135h45m-8-6 8 6-8 6"/><path d="M695 135h45m-8-6 8 6-8 6"/><path d="M930 135h45m-8-6 8 6-8 6"/></g>
+</g></svg>

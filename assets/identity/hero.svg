@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#111d32"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d6c5"/><stop offset="1" stop-color="#668cff"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8aa4c8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<circle cx="1010" cy="160" r="150" fill="#355b9c" opacity=".10"/><circle cx="1010" cy="160" r="105" fill="none" stroke="#42d6c5" stroke-opacity=".35"/><circle cx="1010" cy="160" r="68" fill="none" stroke="#668cff" stroke-opacity=".5"/>
+<path d="M880 160h260M1010 30v260M918 68l184 184M1102 68L918 252" stroke="#6f91c7" stroke-opacity=".18"/>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="64" y="75" fill="#42d6c5" font-size="15" font-weight="700" letter-spacing="4">ENGINEERING COMMAND CENTRE / 02</text>
+ <text x="60" y="158" fill="#f3f7ff" font-size="68" font-weight="800" letter-spacing="-2">VEERAJ MATNALE</text>
+ <text x="64" y="202" fill="#b9c8df" font-size="25">Engineer  ×  Designer  ×  Product Builder</text>
+ <rect x="64" y="242" width="170" height="34" rx="17" fill="#173b43" stroke="#42d6c5" stroke-opacity=".5"/>
+ <text x="149" y="264" fill="#8cf0e2" font-size="13" text-anchor="middle" font-weight="700">SYSTEMS THINKING</text>
+ <rect x="246" y="242" width="158" height="34" rx="17" fill="#1b2b4b" stroke="#668cff" stroke-opacity=".5"/>
+ <text x="325" y="264" fill="#b8caff" font-size="13" text-anchor="middle" font-weight="700">PRODUCT ENGINEERING</text>
+ <rect x="416" y="242" width="146" height="34" rx="17" fill="#302443" stroke="#b58aff" stroke-opacity=".5"/>
+ <text x="489" y="264" fill="#d8c1ff" font-size="13" text-anchor="middle" font-weight="700">DESIGN × TECH</text>
+ <text x="64" y="315" fill="#71839f" font-size="12" letter-spacing="2">BUILDING SYSTEMS THAT MAKE COMPLEXITY USABLE</text>
+</g></svg>
