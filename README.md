@@ -98,13 +98,13 @@ These diagrams are logical reference views, not a claim that every deployment ha
 <div align="center">
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Vrajm12&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrajm12&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vrajm12&show_icons=true&hide_border=true&bg_color=00000000&title_color=668cff&text_color=c3d0e4&icon_color=42d6c5" height="165" alt="GitHub stats"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vrajm12&layout=compact&hide_border=true&bg_color=00000000&title_color=668cff&text_color=c3d0e4" height="165" alt="Top languages"/></td>
 </tr>
 </table>
 <img src="https://streak-stats.demolab.com?user=Vrajm12&hide_border=true&theme=transparent" width="80%" alt="GitHub streak"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrajm12&theme=github-compact&hide_border=true" width="100%" alt="Contribution graph"/>
+<img src="https://activity-graph.vercel.app/graph?username=Vrajm12&theme=github-compact&hide_border=true" width="100%" alt="Contribution graph"/>
 </div>
 
 ---
