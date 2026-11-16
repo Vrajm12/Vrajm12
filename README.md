@@ -3,10 +3,11 @@
 <img src="./assets/identity/hero.svg" width="100%" alt="Veeraj Matnale — Engineer, Designer, Product Builder"/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-veerajmatnale.me-42d6c5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://veerajmatnale.me)
+[![Company](https://img.shields.io/badge/COMPANY-triversesolutions.co.in-7c5cff?style=for-the-badge&logo=vercel&logoColor=white)](https://triversesolutions.co.in)
 [![GitHub](https://img.shields.io/badge/GITHUB-Vrajm12-668cff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vrajm12)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-b58aff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerajmatnale1201/)
 
-**I design and build systems at the intersection of engineering, product and visual thinking.**
+**Director, Founder & CEO at [Triverse Solutions Private Limited](https://triversesolutions.co.in) (Pune & Maval, India). I build the layer between what a business intends and what its software actually does.**
 
 </div>
 
@@ -49,11 +50,11 @@ These diagrams are logical reference views, not a claim that every deployment ha
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/projects/trihub.svg" width="100%" alt="TriHub ERP"/><a href="https://github.com/Vrajm12/trihub"><b>TriHub ERP</b></a><br/><sub>Multi-tenant higher-education operating platform. Academic workflows, institutional operations, access control and quality systems.</sub></td>
-<td width="50%" valign="top"><img src="./assets/projects/priviot.svg" width="100%" alt="PrivIoT"/><a href="https://github.com/Vrajm12/PrivIoT"><b>PrivIoT</b></a><br/><sub>IoT security analysis direction focused on device visibility, risk understanding and privacy-aware systems.</sub></td>
+<td width="50%" valign="top"><img src="./assets/projects/trihub.svg" width="100%" alt="TriHub ERP"/><a href="https://github.com/Vrajm12/trihub"><b>TriHub ERP</b></a> · <a href="https://veerajmatnale.me/work/trihub">Case Study</a><br/><sub>Multi-tenant unified CRM &amp; ERP platform sharing one account, data, and permission model.</sub></td>
+<td width="50%" valign="top"><img src="./assets/projects/priviot.svg" width="100%" alt="PrivIoT"/><a href="https://github.com/Vrajm12/PrivIoT"><b>PrivIoT Shield</b></a> · <a href="https://veerajmatnale.me/work/priviot">Case Study</a><br/><sub>Autonomous IoT security, NVD/CISA KEV/EPSS intelligence, and ETSI EN 303 645 compliance auditing.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="./assets/projects/astraforge.svg" width="100%" alt="AstraForge"/><a href="https://github.com/Vrajm12/astraforge"><b>AstraForge</b></a><br/><sub>A modular skill system for structuring reusable agent workflows and repeatable engineering tasks.</sub></td>
+<td width="50%" valign="top"><img src="./assets/projects/astraforge.svg" width="100%" alt="AstraForge"/><a href="https://github.com/Vrajm12/astraforge"><b>AstraForge</b></a> · <a href="https://veerajmatnale.me/work/astraforge">Case Study</a><br/><sub>Open-source modular skill system for structuring reusable agent workflows, architecture, and verified execution.</sub></td>
 <td width="50%" valign="top"><img src="./assets/projects/astramem.svg" width="100%" alt="AstraMem"/><b>AstraMem</b><br/><sub>Experimental local-first AI memory and recall workflows, explored through MCP-oriented integration.</sub></td>
 </tr>
 <tr>
@@ -61,10 +62,17 @@ These diagrams are logical reference views, not a claim that every deployment ha
 <td width="50%" valign="top"><img src="./assets/projects/edvora.svg" width="100%" alt="EdVora"/><b>EdVora</b><br/><sub>AI-assisted education analytics concept exploring student dropout-risk prediction.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="./assets/projects/vok.svg" width="100%" alt="VOK LeadGen"/><b>VOK LeadGen</b><br/><sub>B2B lead discovery and prospect research workflows for structured business development.</sub></td>
+<td width="50%" valign="top"><img src="./assets/projects/vok.svg" width="100%" alt="VOK LeadGen"/><b>VOK LeadGen</b> · <a href="https://veerajmatnale.me/work/lead-qualification-engine">Case Study</a><br/><sub>B2B lead discovery and qualification workflows for structured business development.</sub></td>
 <td width="50%" valign="top"><img src="./assets/visuals/workflow.svg" width="100%" alt="Build loop"/></td>
 </tr>
 </table>
+
+## WRITING, RESEARCH & COMPANY
+
+- **Portfolio & Architecture Notes:** [veerajmatnale.me](https://veerajmatnale.me) · [Technical Writing](https://veerajmatnale.me/writing)
+- **Research Preprint (MDPI Preprints.org):** [ML-RDM: A Multi-Layered Resilient Defense Model Against Evolving Ransomware Ecosystems](https://veerajmatnale.me/research) ([DOI 10.20944/preprints202602.0398.v1](https://doi.org/10.20944/preprints202602.0398.v1)) · ORCID [0009-0009-4414-2901](https://orcid.org/0009-0009-4414-2901)
+- **Selected Articles:** [Building Trihub Multi-Tenant CRM/ERP](https://veerajmatnale.me/writing/building-trihub-multi-tenant) · [PrivIoT Shield Architecture](https://veerajmatnale.me/writing/how-i-built-priviot-shield) · [Zero-Trust RBAC Patterns](https://veerajmatnale.me/writing/zero-trust-rbac-patterns) · [Custom ERP & CRM Systems in Pune](https://veerajmatnale.me/writing/pune-custom-software-erp-architecture)
+- **Company:** [Triverse Solutions Private Limited](https://triversesolutions.co.in) — Custom [Software & ERP in Pune](https://triversesolutions.co.in/pune), [Pimpri-Chinchwad](https://triversesolutions.co.in/pimpri-chinchwad), [Talegaon Dabhade](https://triversesolutions.co.in/talegaon-dabhade), and [Kamshet / Maval](https://triversesolutions.co.in/kamshet)
 
 ## TECHNOLOGY MATRIX
 
