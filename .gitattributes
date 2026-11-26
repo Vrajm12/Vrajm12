@@ -1,0 +1,20 @@
+# Normalize text files to LF across Windows workstations and Linux GitHub Actions runners
+* text=auto eol=lf
+
+*.svg text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
