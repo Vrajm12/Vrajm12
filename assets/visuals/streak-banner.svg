@@ -25,10 +25,10 @@
     <!-- Panel 1: All-Time Contributions -->
     <g transform="translate(0, 0)">
       <text x="200" y="54" fill="#42d6c5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2" text-anchor="middle">ALL-TIME CONTRIBUTIONS</text>
-      <text x="200" y="114" fill="#f3f8ff" font-size="46" font-weight="800" text-anchor="middle">606</text>
+      <text x="200" y="114" fill="#f3f8ff" font-size="46" font-weight="800" text-anchor="middle">614</text>
       <text x="200" y="145" fill="#8ea4c8" font-size="13" text-anchor="middle">Jul 12, 2023 – Present</text>
       <rect x="122" y="158" width="156" height="22" rx="11" fill="#102932" stroke="#42d6c5" stroke-opacity="0.35"/>
-      <text x="200" y="173" fill="#8cf0e2" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">+394 TO 1,000 MILESTONE</text>
+      <text x="200" y="173" fill="#8cf0e2" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">+386 TO 1,000 MILESTONE</text>
     </g>
 
     <line x1="400" y1="30" x2="400" y2="166" stroke="#1f314f" stroke-width="1.2"/>
@@ -56,7 +56,7 @@
       <text x="200" y="114" fill="#f3f8ff" font-size="46" font-weight="800" text-anchor="middle">13 <tspan font-size="20" fill="#b8c7e0" font-weight="600">days</tspan></text>
       <text x="200" y="145" fill="#8ea4c8" font-size="13" text-anchor="middle">Longest Streak · Jul 27 – Aug 8, 2026</text>
       <rect x="112" y="158" width="176" height="22" rx="11" fill="#211a38" stroke="#b58aff" stroke-opacity="0.35"/>
-      <text x="200" y="173" fill="#dfccff" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">2026 YTD: 465 CONTRIBUTIONS</text>
+      <text x="200" y="173" fill="#dfccff" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">2026 YTD: 473 CONTRIBUTIONS</text>
     </g>
   </g>
 </svg>

@@ -31,13 +31,13 @@
     <g transform="translate(26, 78)">
       <rect width="166" height="58" rx="12" fill="#112038" stroke="#668cff" stroke-opacity="0.45"/>
       <text x="14" y="21" fill="#9db1d7" font-size="11" font-weight="500">Rolling 365 Days</text>
-      <text x="14" y="46" fill="#f3f8ff" font-size="22" font-weight="800">499</text>
+      <text x="14" y="46" fill="#f3f8ff" font-size="22" font-weight="800">505</text>
     </g>
 
     <g transform="translate(207, 78)">
       <rect width="166" height="58" rx="12" fill="#102a31" stroke="#42d6c5" stroke-opacity="0.45"/>
       <text x="14" y="21" fill="#8ed4cc" font-size="11" font-weight="500">All-Time Total</text>
-      <text x="14" y="46" fill="#b5fff4" font-size="22" font-weight="800">606</text>
+      <text x="14" y="46" fill="#b5fff4" font-size="22" font-weight="800">614</text>
     </g>
 
     <g transform="translate(388, 78)">
