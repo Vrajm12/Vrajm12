@@ -1,21 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#111d32"/></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d6c5"/><stop offset="1" stop-color="#668cff"/></linearGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8aa4c8" stroke-opacity=".09"/></pattern>
-</defs>
-<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
-<circle cx="1010" cy="160" r="150" fill="#355b9c" opacity=".10"/><circle cx="1010" cy="160" r="105" fill="none" stroke="#42d6c5" stroke-opacity=".35"/><circle cx="1010" cy="160" r="68" fill="none" stroke="#668cff" stroke-opacity=".5"/>
-<path d="M880 160h260M1010 30v260M918 68l184 184M1102 68L918 252" stroke="#6f91c7" stroke-opacity=".18"/>
-<g font-family="Arial,Helvetica,sans-serif">
- <text x="64" y="75" fill="#42d6c5" font-size="15" font-weight="700" letter-spacing="4">ENGINEERING COMMAND CENTRE / 02</text>
- <text x="60" y="158" fill="#f3f7ff" font-size="68" font-weight="800" letter-spacing="-2">VEERAJ MATNALE</text>
- <text x="64" y="202" fill="#b9c8df" font-size="25">Engineer  ×  Designer  ×  Product Builder</text>
- <rect x="64" y="242" width="170" height="34" rx="17" fill="#173b43" stroke="#42d6c5" stroke-opacity=".5"/>
- <text x="149" y="264" fill="#8cf0e2" font-size="13" text-anchor="middle" font-weight="700">SYSTEMS THINKING</text>
- <rect x="246" y="242" width="158" height="34" rx="17" fill="#1b2b4b" stroke="#668cff" stroke-opacity=".5"/>
- <text x="325" y="264" fill="#b8caff" font-size="13" text-anchor="middle" font-weight="700">PRODUCT ENGINEERING</text>
- <rect x="416" y="242" width="146" height="34" rx="17" fill="#302443" stroke="#b58aff" stroke-opacity=".5"/>
- <text x="489" y="264" fill="#d8c1ff" font-size="13" text-anchor="middle" font-weight="700">DESIGN × TECH</text>
- <text x="64" y="315" fill="#71839f" font-size="12" letter-spacing="2">BUILDING SYSTEMS THAT MAKE COMPLEXITY USABLE</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-label="Veeraj Matnale — Systems Architect, Product Engineer, Security Researcher">
+  <defs>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060a13"/>
+      <stop offset="52%" stop-color="#0b1323"/>
+      <stop offset="100%" stop-color="#101c33"/>
+    </linearGradient>
+    <linearGradient id="hero-rim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#42d6c5" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#668cff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#b58aff" stop-opacity="0.8"/>
+    </linearGradient>
+    <pattern id="hero-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#8aa4c8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="365" rx="22" fill="url(#hero-bg)" stroke="#1e304d" stroke-width="1.2"/>
+  <rect width="1200" height="365" rx="22" fill="url(#hero-grid)"/>
+  <path d="M 22 0.9 H 1178" stroke="url(#hero-rim)" stroke-width="1.8"/>
+  <defs>
+    <radialGradient id="hero-glow" cx="0.82" cy="0.48" r="0.42">
+      <stop offset="0%" stop-color="#42d6c5" stop-opacity="0.18"/>
+      <stop offset="48%" stop-color="#668cff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#060a13" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hero-name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="68%" stop-color="#e8f1ff"/>
+      <stop offset="100%" stop-color="#9ec5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="365" rx="22" fill="url(#hero-glow)"/>
+
+  <!-- Right Architectural Topology Radar -->
+  <g transform="translate(988, 182)">
+    <circle cx="0" cy="0" r="138" fill="none" stroke="#1f3456" stroke-width="1" stroke-dasharray="4 6"/>
+    <circle cx="0" cy="0" r="102" fill="none" stroke="#42d6c5" stroke-opacity="0.32" stroke-width="1.2"/>
+    <circle cx="0" cy="0" r="66" fill="none" stroke="#668cff" stroke-opacity="0.45" stroke-width="1.4"/>
+    <circle cx="0" cy="0" r="28" fill="#10253a" stroke="#42d6c5" stroke-width="1.6"/>
+    <circle cx="0" cy="0" r="6" fill="#42d6c5"/>
+    <path d="M-148 0 H148 M0 -148 V148 M-98 -98 L98 98 M98 -98 L-98 98" stroke="#6f91c7" stroke-opacity="0.14"/>
+
+    <!-- Satellite Nodes -->
+    <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" font-weight="700" text-anchor="middle">
+      <rect x="-34" y="-122" width="68" height="22" rx="11" fill="#0d2330" stroke="#42d6c5"/>
+      <text x="0" y="-107" fill="#9cf2e6">SAAS / ERP</text>
+
+      <rect x="66" y="-11" width="72" height="22" rx="11" fill="#132240" stroke="#668cff"/>
+      <text x="102" y="4" fill="#c4d4ff">ZERO-TRUST</text>
+
+      <rect x="-34" y="98" width="68" height="22" rx="11" fill="#23193a" stroke="#b58aff"/>
+      <text x="0" y="113" fill="#e2cfff">AGENTIC AI</text>
+
+      <rect x="-138" y="-11" width="72" height="22" rx="11" fill="#2b2116" stroke="#e8ad5a"/>
+      <text x="-102" y="4" fill="#ffe1ad">UX SYSTEMS</text>
+    </g>
+  </g>
+
+  <!-- Left Typography & Identity -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+    <rect x="56" y="42" width="448" height="28" rx="14" fill="#0e2034" stroke="#284366"/>
+    <circle cx="74" cy="56" r="4.2" fill="#42d6c5"/>
+    <text x="88" y="60" fill="#9cf2e6" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" letter-spacing="1.4">FOUNDER &amp; CEO · TRIVERSE SOLUTIONS · PUNE, INDIA</text>
+
+    <text x="54" y="146" fill="url(#hero-name)" font-size="64" font-weight="800" letter-spacing="-1.8">VEERAJ MATNALE</text>
+    <text x="58" y="186" fill="#c9d8f0" font-size="22" font-weight="600">Systems Architect  <tspan fill="#42d6c5">·</tspan>  Product Engineer  <tspan fill="#668cff">·</tspan>  Security Researcher</text>
+    <text x="58" y="220" fill="#899fc0" font-size="14.5">I design and ship the operational layer between what a business intends and what its software reliably executes.</text>
+
+    <!-- Capability Pills -->
+    <g transform="translate(58, 250)" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" font-weight="700" text-anchor="middle">
+      <rect x="0" y="0" width="184" height="34" rx="17" fill="#0f2b33" stroke="#42d6c5" stroke-opacity="0.55"/>
+      <text x="92" y="21" fill="#94f3e5">MULTI-TENANT PLATFORMS</text>
+
+      <rect x="196" y="0" width="186" height="34" rx="17" fill="#132342" stroke="#668cff" stroke-opacity="0.55"/>
+      <text x="289" y="21" fill="#c2d2ff">IOT &amp; CYBER RESILIENCE</text>
+
+      <rect x="394" y="0" width="170" height="34" rx="17" fill="#231a3a" stroke="#b58aff" stroke-opacity="0.55"/>
+      <text x="479" y="21" fill="#e1ceff">AI AGENT HARNESSES</text>
+
+      <rect x="576" y="0" width="154" height="34" rx="17" fill="#2a2117" stroke="#e8ad5a" stroke-opacity="0.55"/>
+      <text x="653" y="21" fill="#ffdfaa">DESIGN × DELIVERY</text>
+    </g>
+
+    <line x1="58" y1="308" x2="788" y2="308" stroke="#1b2c47"/>
+    <text x="58" y="332" fill="#6f85a8" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.3">VEERAJMATNALE.ME   //   TRIVERSESOLUTIONS.CO.IN   //   ORCID 0009-0009-4414-2901</text>
+  </g>
+</svg>

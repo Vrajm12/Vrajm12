@@ -1,12 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
-<rect width="1000" height="120" rx="18" fill="#0d1422" stroke="#26354e"/>
-<g font-family="Arial, sans-serif"><text x="32" y="48" fill="#e9f0fb" font-size="20" font-weight="700">ENGINEERING LAYERS</text><text x="32" y="76" fill="#8294b0" font-size="13">From problem framing to reliable systems</text></g>
-<g font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
-<rect x="350" y="30" width="130" height="54" rx="10" fill="#183b40" stroke="#42d6c5"/><text x="415" y="62" fill="#9cf2e6">DISCOVER</text>
-<path d="M484 57h30" stroke="#607b9e" stroke-width="2"/><path d="m508 51 7 6-7 6" fill="none" stroke="#607b9e" stroke-width="2"/>
-<rect x="522" y="30" width="130" height="54" rx="10" fill="#1b2b4b" stroke="#668cff"/><text x="587" y="62" fill="#c1d0ff">DESIGN</text>
-<path d="M656 57h30" stroke="#607b9e" stroke-width="2"/><path d="m680 51 7 6-7 6" fill="none" stroke="#607b9e" stroke-width="2"/>
-<rect x="694" y="30" width="130" height="54" rx="10" fill="#302443" stroke="#b58aff"/><text x="759" y="62" fill="#e0ccff">BUILD</text>
-<path d="M828 57h30" stroke="#607b9e" stroke-width="2"/><path d="m852 51 7 6-7 6" fill="none" stroke="#607b9e" stroke-width="2"/>
-<rect x="866" y="30" width="105" height="54" rx="10" fill="#3b2c1b" stroke="#e8ad5a"/><text x="918" y="62" fill="#ffdaa0">VERIFY</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="134" viewBox="0 0 1200 134" role="img" aria-label="Engineering execution loop">
+  <defs>
+    <linearGradient id="sig-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060a13"/>
+      <stop offset="52%" stop-color="#0b1323"/>
+      <stop offset="100%" stop-color="#101c33"/>
+    </linearGradient>
+    <linearGradient id="sig-rim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#42d6c5" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#668cff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#b58aff" stop-opacity="0.8"/>
+    </linearGradient>
+    <pattern id="sig-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#8aa4c8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="134" rx="18" fill="url(#sig-bg)" stroke="#1e304d" stroke-width="1.2"/>
+  <rect width="1200" height="134" rx="18" fill="url(#sig-grid)"/>
+  <path d="M 18 0.9 H 1182" stroke="url(#sig-rim)" stroke-width="1.8"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+    <text x="30" y="42" fill="#42d6c5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="2.2">EXECUTION DOCTRINE</text>
+    <text x="30" y="68" fill="#f1f6ff" font-size="20" font-weight="800">Engineering Loop</text>
+    <text x="30" y="92" fill="#849ab9" font-size="12.5">Repeatable delivery from ambiguity</text>
+    <text x="30" y="109" fill="#849ab9" font-size="12.5">to production-grade systems.</text>
+    <g transform="translate(308, 26)">
+      <rect width="158" height="82" rx="13" fill="#0f2a32" stroke="#42d6c5" stroke-opacity="0.6"/>
+      <text x="14" y="24" fill="#42d6c5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.4">STAGE 01</text>
+      <text x="14" y="48" fill="#9cf2e6" font-size="15" font-weight="800">FRAME</text>
+      <text x="14" y="68" fill="#8ea5c7" font-size="11.5">Boundaries &amp; intent</text>
+    </g>
+    <g transform="translate(484, 26)">
+      <rect width="158" height="82" rx="13" fill="#132342" stroke="#668cff" stroke-opacity="0.6"/>
+      <text x="14" y="24" fill="#668cff" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.4">STAGE 02</text>
+      <text x="14" y="48" fill="#c4d4ff" font-size="15" font-weight="800">ARCHITECT</text>
+      <text x="14" y="68" fill="#8ea5c7" font-size="11.5">Contracts &amp; isolation</text>
+    </g>
+    <g transform="translate(660, 26)">
+      <rect width="158" height="82" rx="13" fill="#231a3a" stroke="#b58aff" stroke-opacity="0.6"/>
+      <text x="14" y="24" fill="#b58aff" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.4">STAGE 03</text>
+      <text x="14" y="48" fill="#e3d0ff" font-size="15" font-weight="800">ENGINEER</text>
+      <text x="14" y="68" fill="#8ea5c7" font-size="11.5">Clean domain delivery</text>
+    </g>
+    <g transform="translate(836, 26)">
+      <rect width="158" height="82" rx="13" fill="#2b2116" stroke="#e8ad5a" stroke-opacity="0.6"/>
+      <text x="14" y="24" fill="#e8ad5a" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.4">STAGE 04</text>
+      <text x="14" y="48" fill="#ffe0ad" font-size="15" font-weight="800">HARDEN</text>
+      <text x="14" y="68" fill="#8ea5c7" font-size="11.5">Authz, tests &amp; audit</text>
+    </g>
+    <g transform="translate(1012, 26)">
+      <rect width="158" height="82" rx="13" fill="#0f2a32" stroke="#42d6c5" stroke-opacity="0.6"/>
+      <text x="14" y="24" fill="#42d6c5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1.4">STAGE 05</text>
+      <text x="14" y="48" fill="#9cf2e6" font-size="15" font-weight="800">OPERATE</text>
+      <text x="14" y="68" fill="#8ea5c7" font-size="11.5">Observe &amp; iterate</text>
+    </g>
+    <path d="M 469 67 H 481 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#5c769d" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 645 67 H 657 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#5c769d" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 821 67 H 833 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#5c769d" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 997 67 H 1009 m -4 -4 l 4 4 l -4 4" fill="none" stroke="#5c769d" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>

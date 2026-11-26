@@ -1,5 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260">
-<rect width="600" height="260" rx="18" fill="#172746" stroke="#668cff" stroke-opacity=".6"/>
-<circle cx="510" cy="70" r="110" fill="#668cff" opacity=".08"/><circle cx="510" cy="70" r="70" fill="none" stroke="#668cff" stroke-opacity=".3"/><path d="M410 30h170M440 70h140M470 110h110" stroke="#668cff" stroke-opacity=".25"/>
-<g font-family="Arial,sans-serif"><text x="30" y="42" fill="#668cff" font-size="12" font-weight="700" letter-spacing="3">PROJECT / LAB</text><text x="28" y="112" fill="#f1f5ff" font-size="35" font-weight="800">PRIVIOT</text><text x="31" y="151" fill="#c3d0e4" font-size="17">IoT security</text><text x="31" y="198" fill="#91a4c2" font-size="14">Device visibility · Risk analysis · Privacy</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="252" viewBox="0 0 600 252" role="img" aria-label="PRIVIOT SHIELD">
+  <defs>
+    <linearGradient id="priviot-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070c16"/>
+      <stop offset="55%" stop-color="#11203b"/>
+      <stop offset="100%" stop-color="#0b1324"/>
+    </linearGradient>
+    <pattern id="priviot-dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#9bb4d8" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="252" rx="18" fill="url(#priviot-bg)" stroke="#668cff" stroke-opacity="0.5" stroke-width="1.2"/>
+  <rect width="600" height="252" rx="18" fill="url(#priviot-dots)"/>
+  <path d="M 18 1 H 582" stroke="#668cff" stroke-opacity="0.85" stroke-width="1.8"/>
+
+  <!-- Geometric Motif -->
+  <circle cx="522" cy="66" r="96" fill="#668cff" fill-opacity="0.07"/>
+  <circle cx="522" cy="66" r="62" fill="none" stroke="#668cff" stroke-opacity="0.24"/>
+  <circle cx="522" cy="66" r="28" fill="none" stroke="#668cff" stroke-opacity="0.38" stroke-dasharray="4 4"/>
+  <path d="M432 34 H576 M456 66 H576 M482 98 H576" stroke="#668cff" stroke-opacity="0.22"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif">
+    <rect x="28" y="24" width="131" height="24" rx="12" fill="#15284a" stroke="#668cff" stroke-opacity="0.45"/>
+    <text x="93.3" y="40" fill="#668cff" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="700" letter-spacing="1.4" text-anchor="middle">CYBERSECURITY</text>
+
+    <text x="28" y="102" fill="#f4f8ff" font-size="31" font-weight="800" letter-spacing="-0.6">PRIVIOT SHIELD</text>
+    <text x="28" y="136" fill="#bfd0ea" font-size="15.5" font-weight="500">Autonomous IoT vulnerability &amp; ETSI EN 303 645 auditing</text>
+    <line x1="28" y1="176" x2="572" y2="176" stroke="#1e314f"/>
+    <rect x="28" y="198" width="68" height="26" rx="13" fill="#15284a" stroke="#668cff" stroke-opacity="0.4"/><text x="61.8" y="215" fill="#dce7fb" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">Python</text><rect x="106" y="198" width="90" height="26" rx="13" fill="#15284a" stroke="#668cff" stroke-opacity="0.4"/><text x="150.8" y="215" fill="#dce7fb" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">NVD / KEV</text><rect x="206" y="198" width="52" height="26" rx="13" fill="#15284a" stroke="#668cff" stroke-opacity="0.4"/><text x="232.2" y="215" fill="#dce7fb" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">EPSS</text><rect x="268" y="198" width="98" height="26" rx="13" fill="#15284a" stroke="#668cff" stroke-opacity="0.4"/><text x="317.4" y="215" fill="#dce7fb" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" font-weight="600" text-anchor="middle">Zero-Trust</text>
+  </g>
 </svg>
