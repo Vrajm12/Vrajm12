@@ -106,8 +106,8 @@ These diagrams are logical reference views, not a claim that every deployment ha
 <div align="center">
 <table>
 <tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vrajm12&show_icons=true&hide_border=true&bg_color=00000000&title_color=668cff&text_color=c3d0e4&icon_color=42d6c5" height="165" alt="GitHub stats"/></td>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vrajm12&layout=compact&hide_border=true&bg_color=00000000&title_color=668cff&text_color=c3d0e4" height="165" alt="Top languages"/></td>
+<td width="50%"><img src="./assets/visuals/github-stats.svg" width="100%" alt="GitHub stats"/></td>
+<td width="50%"><img src="./assets/visuals/top-languages.svg" width="100%" alt="Top languages"/></td>
 </tr>
 </table>
 <img src="https://streak-stats.demolab.com?user=Vrajm12&hide_border=true&theme=transparent" width="80%" alt="GitHub streak"/>
