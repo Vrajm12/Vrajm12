@@ -48,14 +48,14 @@
 
     <g transform="translate(26, 150)">
       <rect width="166" height="50" rx="10" fill="#0e182a" stroke="#1f314f"/>
-      <text x="14" y="19" fill="#7f93b2" font-size="11">Owned Repos</text>
-      <text x="14" y="39" fill="#d7e2ff" font-size="16" font-weight="700">41</text>
+      <text x="14" y="19" fill="#7f93b2" font-size="11">Public Repos</text>
+      <text x="14" y="39" fill="#d7e2ff" font-size="16" font-weight="700">20</text>
     </g>
 
     <g transform="translate(207, 150)">
       <rect width="166" height="50" rx="10" fill="#0e182a" stroke="#1f314f"/>
       <text x="14" y="19" fill="#7f93b2" font-size="11">Stars Earned</text>
-      <text x="14" y="39" fill="#ffe0ad" font-size="16" font-weight="700">12</text>
+      <text x="14" y="39" fill="#ffe0ad" font-size="16" font-weight="700">7</text>
     </g>
 
     <g transform="translate(388, 150)">
